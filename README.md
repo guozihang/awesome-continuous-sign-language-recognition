@@ -2,6 +2,40 @@
 
 | Conference/Jounal       | Level                                                        | Title                                                        | Link                                                         |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 【arXiv 2026】 | Preprint | RAIDAL: Redundancy-Aware Information Density Active Learning for CTC-Based Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2609.06843)] |
+| 【arXiv 2026】 | Preprint | SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting | [[paper](https://arxiv.org/abs/2608.25493)] |
+| 【arXiv 2026】 | Preprint | Bridging the Gap Between Semantics and Reconstruction:Unifying Sign Language Translation and Production | [[paper](https://arxiv.org/abs/2608.09045)] |
+| 【arXiv 2026】 | Preprint | Do Transformer Temporal Heads and Post-Pooling Motion Gates Help CorrNet-based CSLR? An Empirical Study | [[paper](https://arxiv.org/abs/2607.09890)] |
+| 【arXiv 2026】 | Preprint | SignVLA: A Gloss-Free Vision-Language-Action Framework for Real-Time Sign Language-Guided Robotic Manipulation | [[paper](https://arxiv.org/abs/2602.22514)] |
+| 【arXiv 2025】 | Preprint | MHB: Multimodal Handshape-aware Boundary Detection for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2511.19907)] |
+| 【arXiv 2025】 | Preprint | Sigma: Semantically Informative Pre-training for Skeleton-based Sign Language Understanding | [[paper](https://arxiv.org/abs/2509.21223)] |
+| 【arXiv 2024】 | Preprint | Scaling up Multimodal Pre-training for Sign Language Understanding | [[paper](https://arxiv.org/abs/2408.08544)] |
+| 【arXiv 2024】 | Preprint | EvSign: Sign Language Recognition and Translation with Streaming Events | [[paper](https://arxiv.org/abs/2407.12593)] |
+| 【arXiv 2024】 | Preprint | A Comparative Study of Continuous Sign Language Recognition Techniques | [[paper](https://arxiv.org/abs/2406.12369)] |
+| 【arXiv 2024】 | Preprint | A Transformer Model for Boundary Detection in Continuous Sign Language | [[paper](https://arxiv.org/abs/2402.14720)] |
+| 【arXiv 2024】 | Preprint | Towards Online Continuous Sign Language Recognition and Translation | [[paper](https://arxiv.org/abs/2401.05336)] |
+| 【arXiv 2023】 | Preprint | SlowFast Network for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2309.12304)] |
+| 【arXiv 2023】 | Preprint | Improving Continuous Sign Language Recognition with Cross-Lingual Signs | [[paper](https://arxiv.org/abs/2308.10809)] |
+| 【arXiv 2023】 | Preprint | AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2308.08327)] |
+| 【arXiv 2023】 | Preprint | SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding | [[paper](https://arxiv.org/abs/2305.04868)] |
+| 【arXiv 2023】 | Preprint | Denoising-Contrastive Alignment for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2305.03614)] |
+| 【arXiv 2023】 | Preprint | A Comparative Analysis of Techniques and Algorithms for Recognising Sign Language | [[paper](https://arxiv.org/abs/2305.13941)] |
+| 【arXiv 2023】 | Preprint | Self-Sufficient Framework for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2303.11771)] |
+| 【arXiv 2023】 | Preprint | Continuous sign language recognition based on cross-resolution knowledge distillation | [[paper](https://arxiv.org/abs/2303.06820)] |
+| 【arXiv 2023】 | Preprint | Continuous Sign Language Recognition with Correlation Network | [[paper](https://arxiv.org/abs/2303.03202)] |
+| 【arXiv 2022】 | Preprint | Improving Continuous Sign Language Recognition with Consistency Constraints and Signer Removal | [[paper](https://arxiv.org/abs/2212.13023)] |
+| 【arXiv 2022】 | Preprint | Self-Emphasizing Network for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2211.17081)] |
+| 【arXiv 2022】 | Preprint | Temporal superimposed crossover module for effective continuous sign language | [[paper](https://arxiv.org/abs/2211.03387)] |
+| 【arXiv 2022】 | Preprint | Continuous Sign Language Recognition via Temporal Super-Resolution Network | [[paper](https://arxiv.org/abs/2207.00928)] |
+| 【arXiv 2022】 | Preprint | Multi-View Spatial-Temporal Network for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2204.08747)] |
+| 【arXiv 2022】 | Preprint | Multi-scale temporal network for continuous sign language recognition | [[paper](https://arxiv.org/abs/2204.03864)] |
+| 【arXiv 2022】 | Preprint | Word separation in continuous sign language using isolated signs and post-processing | [[paper](https://arxiv.org/abs/2204.00923)] |
+| 【arXiv 2021】 | Preprint | Visual Alignment Constraint for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2104.02330)] |
+| 【arXiv 2021】 | Preprint | Context Matters: Self-Attention for Sign Language Recognition | [[paper](https://arxiv.org/abs/2101.04632)] |
+| 【arXiv 2020】 | Preprint | Quantitative Survey of the State of the Art in Sign Language Recognition | [[paper](https://arxiv.org/abs/2008.09918)] |
+| 【arXiv 2020】 | Preprint | Continuous sign language recognition from wearable IMUs using deep capsule networks and game theory | [[paper](https://arxiv.org/abs/2005.00409)] |
+| 【arXiv 2019】 | Preprint | SF-Net: Structured Feature Network for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/1908.01341)] |
+| 【arXiv 2014】 | Preprint | Improvement Tracking Dynamic Programming using Replication Function for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/1406.0909)] |
 | 【ACMMM 2020】          | ![Conference](https://img.shields.io/badge/CCF-A-8A2BE2)     | ![Conference](https://img.shields.io/badge/citation-112-8A2BE2)Boosting Continuous Sign Language Recognition via Cross Modality Augmentation | [[paper](https://arxiv.org/pdf/2010.05264)]                  |
 | 【ECCV 2020】           | ![Conference](https://img.shields.io/badge/CCF-B-8A2BE2)     | ![Conference](https://img.shields.io/badge/citation-94-8A2BE2)Stochastic Fine-grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition | [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf)] |
 | 【ECCV 2020】           | ![Conference](https://img.shields.io/badge/CCF-B-8A2BE2)     | ![Conference](https://img.shields.io/badge/citation-145-8A2BE2)Fully Convolutional Networks for Continuous Sign Language Recognition | [[paper\]](https://arxiv.org/pdf/2007.12402v1.pdf)           |

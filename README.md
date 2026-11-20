@@ -2,6 +2,11 @@
 
 | Conference/Jounal       | Level                                                        | Title                                                        | Link                                                         |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+| 「ACMMM 2026」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)Disentangling How and Where : Causality-Inspired Spatiotemporal Adaptive Rectification for Sign Language Recognition | [[paper](https://arxiv.org/abs/2606.24361)] |
+| 「AAAI 2026」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)HyperSign: Saliency-Aware Spatial Graphs and Temporal Hypergraphs for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2606.24361)] |
+| 「AAAI 2026」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)HyperSign: Hierarchical Hypergraph-based Co-occurrence Modeling for Sign Language Recognition and Translation | [[paper](https://arxiv.org/abs/2606.24361)] |
+| 「ECCV 2026」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)SignNet-1M: Large-Scale Multilingual Sign Language Video Dataset with Downstream Benchmarks | [[paper](https://arxiv.org/abs/2606.24361)] |
 | 「Arxiv 2026.10.31」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)Beyond Temporal Overlap: Consumer-Aware Evaluation of Sign-Language Segmentation across Three Corpora | [[paper](https://arxiv.org/abs/2611.00823)] |
 | 「Arxiv 2026.09.27」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)OneSign: Unifying Sign Language Understanding Tasks with One Model | [[paper](https://arxiv.org/abs/2609.33090)] |
 | 「Arxiv 2026.09.25」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)Seeing Semantic Shift: Difference-Aware Sentence-Level Temporal Segmentation of Sign Language Videos | [[paper](https://arxiv.org/abs/2609.31148)] |
@@ -9,7 +14,7 @@
 | 「Arxiv 2026.09.03」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)A Reverse Sign Language Dictionary: Open-Vocabulary Sign Recognition from Continuous Signing via Video Captioning and Description Retrieval | [[paper](https://arxiv.org/abs/2609.03788)] |
 | 「Arxiv 2026.09.01」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)SignMatch: Matching Dictionary Signs to Continuous Sign Language Video | [[paper](https://arxiv.org/abs/2609.01886)] |
 | 「Arxiv 2026.10.29」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)BEACON: Distilled Begin/End-Aware Structured Decoding for Continuous Sign Language Segmentation | [[paper](https://arxiv.org/abs/2610.39553)] |
-| 「Arxiv 2026.10.23」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing | [[paper](https://arxiv.org/abs/2610.33200)] |
+| 「NeurIPS 2026」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing | [[paper](https://arxiv.org/abs/2610.33200)] |
 | 「Arxiv 2026.09.06」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)RAIDAL: Redundancy-Aware Information Density Active Learning for CTC-Based Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2609.06843)] |
 | 「Arxiv 2026.08.26」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting | [[paper](https://arxiv.org/abs/2608.25493)] |
 | 「Arxiv 2026.08.10」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)Bridging the Gap Between Semantics and Reconstruction:Unifying Sign Language Translation and Production | [[paper](https://arxiv.org/abs/2608.09045)] |
@@ -131,25 +136,28 @@
 
 **Conference**
 
-
+- [x] ICML 2026
 - [x] ICML 2025
 - [x] ICML 2024
 - [x] ICML 2023
 - [x] ICML 2022
 - [x] ICML 2021
 - [x] ICML 2020
+- [x] ICLR 2026
 - [x] ICLR 2025
 - [x] ICLR 2024
 - [x] ICLR 2023
 - [x] ICLR 2022
 - [x] ICLR 2021
 - [x] ICLR 2020
+- [x] NeruIPS 2026
 - [x] NeruIPS 2025
 - [x] NeruIPS 2024
 - [x] NeruIPS 2023
 - [x] NeruIPS 2022
 - [x] NeruIPS 2021
 - [x] NeruIPS 2020
+- [x] CVPR 2026
 - [x] CVPR 2025
 - [x] CVPR 2024
 - [x] CVPR 2023
@@ -159,21 +167,25 @@
 - [x] ICCV 2025
 - [x] ICCV 2023
 - [x] ICCV 2021
+- [x] ECCV 2026
 - [x] ECCV 2024
 - [x] ECCV 2022
 - [x] ECCV 2020
+- [x] AAAI 2026
 - [x] AAAI 2025
 - [x] AAAI 2024
 - [x] AAAI 2023
 - [x] AAAI 2022
 - [x] AAAI 2021
 - [x] AAAI 2020
+- [x] WWW 2026
 - [x] WWW 2025
 - [x] WWW 2024
 - [x] WWW 2023
 - [x] WWW 2022
 - [x] WWW 2021
 - [x] WWW 2020
+- [x] ACMMM 2026
 - [x] ACMMM 2025
 - [x] ACMMM 2024
 - [x] ACMMM 2023

@@ -2,7 +2,6 @@
 
 | Conference/Jounal       | Level                                                        | Title                                                        | Link                                                         |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
 | 「ACMMM 2026」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)Disentangling How and Where : Causality-Inspired Spatiotemporal Adaptive Rectification for Sign Language Recognition | [[paper](https://arxiv.org/abs/2606.24361)] |
 | 「AAAI 2026」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)HyperSign: Saliency-Aware Spatial Graphs and Temporal Hypergraphs for Continuous Sign Language Recognition | [[paper](https://arxiv.org/abs/2606.24361)] |
 | 「AAAI 2026」 | ![Conference](https://img.shields.io/badge/Preprint-8A2BE2) | ![Conference](https://img.shields.io/badge/citation-0-8A2BE2)HyperSign: Hierarchical Hypergraph-based Co-occurrence Modeling for Sign Language Recognition and Translation | [[paper](https://arxiv.org/abs/2606.24361)] |
